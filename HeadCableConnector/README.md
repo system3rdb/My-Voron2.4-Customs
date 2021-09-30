@@ -1,7 +1,8 @@
 D-SUB DB15 HeadCableConnector
 ------------------------------
-![화면 캡처 2021-09-30 130927](https://user-images.githubusercontent.com/16078263/135385650-b06fd330-a17d-410b-8570-bfd2dc13e4ac.png)
 D sub 15pin
+![image_2579_1](https://user-images.githubusercontent.com/16078263/135385911-45e48008-0695-4618-8c78-def81823a68d.jpg)
+![1-original](https://user-images.githubusercontent.com/16078263/135385992-8270db63-9f8e-4e60-96b8-cefc5715bf8e.jpg)
 
 ![20210930_124901](https://user-images.githubusercontent.com/16078263/135385420-ad3234af-0a4b-4319-8381-5ec9f2dae2bf.jpg)
 
