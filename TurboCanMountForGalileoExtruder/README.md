@@ -1,8 +1,8 @@
 some m2 bolt
 
-4 counter sink magnet 3x6
+4 x counter sink magnet 3x6
 
-4 m2 insert nut
+4 x m2 insert nut
 
 turbocan
 
